@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: skcript/skcript-gulp-starter # Path to your Github repository
+  repo: praveenjuge/skcript-gulp-starter # Path to your Github repository
   branch: master # Branch to update (master by default)
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
